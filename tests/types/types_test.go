@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	ff "github.com/pquerna/ffjson/tests/types/ff"
+	ff "github.com/jrmarkle/ffjson/tests/types/ff"
 )
 
 func TestRoundTrip(t *testing.T) {
